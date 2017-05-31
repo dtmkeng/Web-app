@@ -1,2 +1,2 @@
 alert("Heool");
-alert("oop")
+console.log("ale be ");
